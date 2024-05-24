@@ -93,10 +93,10 @@ theme_mode:  # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: assets/img/lovepik-lovely-cloud-sun-icon-png-image_401067254_wh1200-removebg-preview.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -175,6 +175,8 @@ defaults:
       type: posts
     values:
       layout: post
+      author_profile: false
+      
       comments: true # Enable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
