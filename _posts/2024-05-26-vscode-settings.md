@@ -3,7 +3,7 @@ title: [VS Code] 환경설정
 description: >-
 Visual Studio Code를 사용하며 편하게 사용할 수 있게 셋팅을 해보자 
 author: cotes
-date: 2023-05-26 +0900
+date: 2024-05-26 +0900
 categories: [Setting]
 tags: [vscode, set]
 pin: true
