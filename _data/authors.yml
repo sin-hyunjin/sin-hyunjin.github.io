@@ -1,15 +1,14 @@
-## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting--url
 # -------------------------------------
-# {author_id}:
+# {_id}:
 #   name: {full name}
-#   twitter: {twitter_of_author}
-#   url: {homepage_of_author}
+#   twitter: {twitter_of_}
+#   url: {homepage_of_}
 # -------------------------------------
 
 cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+  name: Hyunjin Sin
+  url: https://github.com/sin-hyunjin
 
 sille_bille:
   name: Dinesh Prasanth Moluguwan Krishnamoorthy
