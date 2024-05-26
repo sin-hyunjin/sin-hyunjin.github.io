@@ -1,14 +1,12 @@
 ---
-title: [VS Code] 환경설정 
-description: >-
-Visual Studio Code를 사용하며 편하게 사용할 수 있게 셋팅을 해보자 
+title: "[VS Code] 환경설정"
+description: "Visual Studio Code를 사용하며 편하게 사용할 수 있게 셋팅을 해보자"
 author: cotes
-date: 2024-05-26 +0900
+date: 2024-05-26 09:00:00 +0900
 categories: [Setting]
 tags: [vscode, set]
 pin: true
 ---
-
 
 
 ## 자동 줄바꿈 (Word Wrap)
@@ -31,5 +29,4 @@ pin: true
 
 #### 4. 결과 
 
-<video src="../../../Downloads/스크린샷/화면 기록 2024-05-26 오후 6.29.48.mov"></video>
-
+<img src="../images/2024-05-26-vscode-settings/result.gif" alt="result" style="float: left; margin-right: 10px; zoom:67%;" />
