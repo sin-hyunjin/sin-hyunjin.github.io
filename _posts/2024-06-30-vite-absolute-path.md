@@ -1,6 +1,5 @@
 ---
 title: "[Vite] 프로젝트 절대 경로 설정하기"
-description: ""
 author: cotes
 date: 2024-06-30 17:00:00 +0900
 categories: [Vite]
