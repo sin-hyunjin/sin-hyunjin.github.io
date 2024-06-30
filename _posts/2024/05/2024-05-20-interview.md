@@ -1,10 +1,12 @@
+---
 title: "프론트엔드 개발자 면접준비"
 description: ""
 author: cotes
 date: 2024-05-20 17:00:00 +0900
 categories: [Interview]
-tags: []
+tags: [취업, 면접]
 pin: true
+---
 
 ### 브라우저의 렌더링 과정에 대해 설명해주세요.
 

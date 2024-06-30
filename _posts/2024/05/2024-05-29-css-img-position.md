@@ -8,8 +8,6 @@ tags: [css, image]
 pin: true
 ---
 
-
-
 TODO :
 
 CSS [object-fit, object-position , flex]
