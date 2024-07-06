@@ -1,5 +1,5 @@
 ---
-title: "[CSS3] 이미지를 배경처럼 사용하기"
+title: "[CSS3] 이미지를 배경처럼 사용하기 Test"
 description: "[object-fit, object-position]"
 author: cotes
 date: 2024-05-29 17:00:00 +0900
