@@ -350,70 +350,11 @@ const Counter = () => {
 export default Counter;
 ```
 
-- **결과값**: 화면에 "Count: 0", "Increment" 버튼, "Decrement" 버튼이 표시됩니다. 버튼을 클릭할 때마다 Count 값이 증가 또는 감소합니다.
-
-### useMemo Hook
-
-**useMemo**는 함수의 결과 값을 메모이제이션하여 성능을 최적화하는 데 사용됩니다. 의존성 배열을 지정하여 해당 값이 변경될 때만 함수를 다시 계
+- **결과값**: 화면에 "Count: 0", "Increment" 버튼, "Decrement" 버튼이 표시됩니다. 버튼을 클릭할 때마다 Count 값이 증가 또는 감소합니다
 
 
 
 
-
-겨
-
-
-
-ChatGPT
-
-죄송합니다. 이전에 응답을 마치지 않고 종료된 것 같습니다. 다시 시작하겠습니다.
-
-### useMemo Hook
-
-**useMemo**는 함수의 결과 값을 메모이제이션하여 성능을 최적화하는 데 사용됩니다. 의존성 배열을 지정하여 해당 값이 변경될 때만 함수를 다시 계산합니다.
-
-```
-jsx
-
-import React, { useMemo, useState } from 'react';
-
-const ExpensiveComponent = ({ count }) => {
-  const expensiveCalculation = useMemo(() => {
-    console.log('Calculating...');
-    let result = 0;
-    for (let i = 0; i < count; i++) {
-      result += i;
-    }
-    return result;
-  }, [count]);
-
-  return (
-    <div
-```
-
-
-
-
-
-결과값도
-
-
-
-ChatGPT
-
-죄송합니다. 이전에 응답을 마치지 않고 종료된 것 같습니다. 다시 시작하겠습니다.
-
-
-
-
-
-결과값도 코드로해줘
-
-
-
-ChatGPT
-
-네, 이해했습니다. useMemo Hook의 예제 코드에 대한 결과값을 함께 설명드리겠습니다.
 
 ### useMemo Hook
 
