@@ -17,7 +17,7 @@ timezone: Asia/Seoul
 title: HyunJin Devlog # the main title
 
 # todo : 2024 .06.09 내용 적을만한거 승연이 생각해오기로 함
-tagline: 내용 추천좀 # it will display as the sub-title
+tagline: # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   더 의미 있는 시간을 보내기 위한.
