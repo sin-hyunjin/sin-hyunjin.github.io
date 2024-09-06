@@ -5,6 +5,7 @@ date: 2019-08-08 14:10:00 +0900
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
+published: true
 ---
 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.![lovepik-lovely-cloud-sun-icon-png-image_401067254_wh1200](../images/2019-08-08-write-a-new-post/lovepik-lovely-cloud-sun-icon-png-image_401067254_wh1200.png)
